@@ -29,7 +29,7 @@ Server will run at `http://127.0.0.1:5000`
 - password: `admin123`
 
 ## API Endpoints (summary)
-- `POST /api/login` : JSON {username, password}
+- `POST /api/login` : JSON {username,,DATA , password}
 - `GET/POST /api/campaigns` : create or list campaigns
 - `POST /api/campaigns/<id>/import_targets` : JSON {targets: ["a@b.com", ...]}
 - `GET /api/campaigns/<id>/export` : CSV export of targets & tracking links
