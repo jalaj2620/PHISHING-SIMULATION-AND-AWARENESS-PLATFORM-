@@ -27,6 +27,7 @@ Server will run at `http://127.0.0.1:5000`
 ## Default admin credentials
 - username: `admin`
 - password: `admin123`
+#  we are using this basically for the new user access for showcasing what we made
 
 ## API Endpoints (summary)
 - `POST /api/login` : JSON {username,,DATA , password}
