@@ -39,4 +39,5 @@ Server will run at `http://127.0.0.1:5000`
 
 ## Notes
 - This project is for demo/local testing only. Do not use to send live phishing emails.
+- For accessing the real world issues , try to create the simulation with the provided credentials
 - For email sending in sandbox use MailHog or a sandboxed SMTP provider.
